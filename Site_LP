@@ -1,6 +1,0 @@
-cd D:\Site_Linkin_Park_final\Site_Linkin_Park_final
-git init
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/mynemih/Site_LP.git
-git push -u origin master
